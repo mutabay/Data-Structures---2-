@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/General.c
+General.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/General.h
+
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/General.h
+stdio.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/stdio.h
+stdlib.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/stdlib.h
+limits.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/limits.h
+
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/Graphs.c
+Graphs.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/Graphs.h
+
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/Graphs.h
+General.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/General.h
+SingleLinkedList.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/SingleLinkedList.h
+SLL_Queue.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/SLL_Queue.h
+
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/SLL_Queue.c
+SLL_Queue.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/SLL_Queue.h
+
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/SLL_Queue.h
+General.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/General.h
+SingleLinkedList.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/SingleLinkedList.h
+
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/SingleLinkedList.c
+SingleLinkedList.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/SingleLinkedList.h
+
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/SingleLinkedList.h
+General.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/General.h
+
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/main.c
+stdio.h
+-
+General.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/General.h
+SingleLinkedList.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/SingleLinkedList.h
+SLL_Queue.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/SLL_Queue.h
+Graphs.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-TopologicalSort/Graphs.h
+

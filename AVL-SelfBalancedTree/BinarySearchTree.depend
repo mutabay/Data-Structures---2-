@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1577381893 source:c:\users\mutabay\desktop\software\data structers\binarysearchtree\binarysearchtree\bst.c
+	"BST.h"
+
+1577385481 c:\users\mutabay\desktop\software\data structers\binarysearchtree\binarysearchtree\bst.h
+	"General.h"
+
+1576797432 c:\users\mutabay\desktop\software\data structers\binarysearchtree\binarysearchtree\general.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1576797432 source:c:\users\mutabay\desktop\software\data structers\binarysearchtree\binarysearchtree\general.c
+	"General.h"
+
+1577385738 source:c:\users\mutabay\desktop\software\data structers\binarysearchtree\binarysearchtree\main.c
+	"General.h"
+	"BST.h"
+	"SLLI_Stack.h"
+
+1577386194 source:c:\users\mutabay\desktop\software\data structers\binarysearchtree\binarysearchtree\slli_stack.c
+	"SLLI_Stack.h"
+
+1577386330 c:\users\mutabay\desktop\software\data structers\binarysearchtree\binarysearchtree\slli_stack.h
+	"General.h"
+
+1576797432 source:c:\users\mutabay\desktop\software\data structers-2\ders-1\avl-selfbalancedtree\general.c
+	"General.h"
+
+1582233751 c:\users\mutabay\desktop\software\data structers-2\ders-1\avl-selfbalancedtree\general.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1577386194 source:c:\users\mutabay\desktop\software\data structers-2\ders-1\avl-selfbalancedtree\slli_stack.c
+	"SLLI_Stack.h"
+
+1577386330 c:\users\mutabay\desktop\software\data structers-2\ders-1\avl-selfbalancedtree\slli_stack.h
+	"General.h"
+
+1582234001 source:c:\users\mutabay\desktop\software\data structers-2\ders-1\avl-selfbalancedtree\main.c
+	"General.h"
+	"BST.h"
+	"SLLI_Stack.h"
+
+1582233353 c:\users\mutabay\desktop\software\data structers-2\ders-1\avl-selfbalancedtree\bst.h
+	"General.h"
+	"SLLI_Stack.h"
+
+1582234123 source:c:\users\mutabay\desktop\software\data structers-2\ders-1\avl-selfbalancedtree\bst.c
+	"BST.h"
+
