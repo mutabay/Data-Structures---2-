@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1584709640 source:c:\users\mutabay\desktop\software\data structers-2\hash-table\seperate chaining\seperate_chaining\general.c
+	"General.h"
+
+1584709640 c:\users\mutabay\desktop\software\data structers-2\hash-table\seperate chaining\seperate_chaining\general.h
+	<stdio.h>
+	<stdlib.h>
+
+1584709640 source:c:\users\mutabay\desktop\software\data structers-2\hash-table\seperate chaining\seperate_chaining\seperate_chaining_basic.c
+	"Seperate_Chaining_Basic.h"
+
+1584710127 c:\users\mutabay\desktop\software\data structers-2\hash-table\seperate chaining\seperate_chaining\seperate_chaining_basic.h
+	"General.h"
+	"SingleLinkedList.h"
+
+1584727377 c:\users\mutabay\desktop\software\data structers-2\hash-table\seperate chaining\seperate_chaining\singlelinkedlist.h
+	"General.h"
+
+1584727377 source:c:\users\mutabay\desktop\software\data structers-2\hash-table\seperate chaining\seperate_chaining\singlelinkedlist.c
+	"SingleLinkedList.h"
+
+1584727377 source:c:\users\mutabay\desktop\software\data structers-2\hash-table\seperate chaining\seperate_chaining\seperate_chaining_pro.c
+	"Seperate_Chaining_Pro.h"
+
+1584727377 c:\users\mutabay\desktop\software\data structers-2\hash-table\seperate chaining\seperate_chaining\seperate_chaining_pro.h
+	"General.h"
+	"SingleLinkedList.h"
+
+1584727410 source:c:\users\mutabay\desktop\software\data structers-2\hash-table\seperate chaining\seperate_chaining\main.c
+	<stdio.h>
+	<stdlib.h>
+	"General.h"
+	"Seperate_Chaining_Basic.h"
+	"SingleLinkedList.h"
+	"Seperate_Chaining_Pro.h"
+
