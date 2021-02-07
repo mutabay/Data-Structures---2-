@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-DjikstaAlgorithm/General.h
+stdio.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-DjikstaAlgorithm/stdio.h
+stdlib.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-DjikstaAlgorithm/stdlib.h
+limits.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-DjikstaAlgorithm/limits.h
+
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-DjikstaAlgorithm/Graph.c
+Graph.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-DjikstaAlgorithm/Graph.h
+
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-DjikstaAlgorithm/Graph.h
+General.h
+C:/Users/tyyp-/Desktop/Repository/Data Structers-2/Graphs-DjikstaAlgorithm/General.h
+
